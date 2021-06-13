@@ -135,7 +135,15 @@ EE228 课程大作业，利用3D骨架控制3D卡通人物。
 
   下面是匹配结果的截图。
 
-  ![image](../img/pose2carton.png)
+  ![image](/img/result1.png)
+  
+  ![image](/img/result2.png)
+
+  ![image](/img/result3.png)
+
+  ![image](/img/result4.png)
+
+  ![image](/img/result5.png)
 
 
 # 协议 
