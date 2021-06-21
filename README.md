@@ -17,7 +17,7 @@ EE228 课程大作业 利用3D骨架控制3D卡通人物 (https://github.com/yuz
       2.3. 添加/Applications/Autodesk/maya2020/Maya.app/Contents/bin
       2.4. 保存并退出
 
-经过上述步骤，就可以调用mayapy进行python脚本了。
+经过上述步骤，就可以调用mayapy运行python脚本了。
 
 
 
