@@ -1,4 +1,4 @@
-# Pose2Cartoon 
+# 1. Pose2Cartoon 
 
 EE228 课程大作业 利用3D骨架控制3D卡通人物 (https://github.com/yuzhenbo/pose2carton) 
 
@@ -6,7 +6,7 @@ EE228 课程大作业 利用3D骨架控制3D卡通人物 (https://github.com/yuz
 
 数据类型： 10组匹配 + 5组蒙皮
 
-# Maya 环境配置
+# 2. Maya 环境配置
   ## 系统 macOS Catalina 10.15.7
     
     1. 在官网上下载Maya 2020的安装程序后，按照提示进行即可。这一步没有难点。
@@ -21,7 +21,7 @@ EE228 课程大作业 利用3D骨架控制3D卡通人物 (https://github.com/yuz
 
 
 
-# 匹配流程
+# 3. 匹配流程
 
   ## 给定数据匹配
   
@@ -63,7 +63,7 @@ EE228 课程大作业 利用3D骨架控制3D卡通人物 (https://github.com/yuz
 
     3.剩下的步骤与前面相同，不再赘述。
 
-# 新增脚本说明
+# 4. 新增脚本说明
 
   为了让整个过程更加自动化，编写了4个shell脚本，只需在terminal中运行脚本，即可完成一系列工作。
   
@@ -135,7 +135,7 @@ EE228 课程大作业 利用3D骨架控制3D卡通人物 (https://github.com/yuz
   
   参数true说明该模型是从网上下载的。
 
-# 项目结果
+# 5. 项目结果
 
   下面是匹配结果的截图。
 
@@ -150,7 +150,7 @@ EE228 课程大作业 利用3D骨架控制3D卡通人物 (https://github.com/yuz
   ![image](/img/result5.png)
 
 
-# 协议 
+# 6. 协议 
   
   本项目在 Apache-2.0 协议下开源。
 
